@@ -1,0 +1,18 @@
+# Local security evidence - do not publish
+reports/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Backups and local editor files
+*.bak
+analyzer*backup*.py
+.vscode/
+.idea/
+
+# Virtual environments and secrets
+.venv/
+venv/
+.env
+.env.*
